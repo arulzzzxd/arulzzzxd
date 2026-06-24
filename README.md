@@ -14,9 +14,7 @@ Name      : Arulz-XD
 Location  : Indonesia
 Role      : Fullstack Developer
 Focus     : API Development & Automation
-Language  : JavaScript, Node.js, PHP, Python
-Database  : MongoDB, MySQL
-OS        : Linux, Windows
+Language  : JavaScript, Node.js
 
 🚀 Currently Working On
 
@@ -29,7 +27,7 @@ OS        : Linux, Windows
 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,php,python,mongodb,mysql,html,css,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,github" />
 </p>---
 
 📊 GitHub Statistics
