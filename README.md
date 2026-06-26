@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40">
 </p><h3 align="center">ARULZ-XD | DIGITAL DEVELOPER FROM INDONESIA 🇮🇩</h3><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+To+Arulz-XD+Profile;Fullstack+Developer;Node.js+%7C+JavaScript+%7C+API+Developer;Digital+Marketplace+Owner;Code+%26+Create+Something+Awesome!" />
-</p>---
+</p>
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
@@ -28,7 +28,7 @@ Language  : JavaScript, Node.js
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,github" />
-</p>---
+</p>
 
 📊 GitHub Statistics
 
@@ -37,7 +37,7 @@ Language  : JavaScript, Node.js
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arulzzzxd&theme=tokyonight&hide_border=true" width="49%">
 </p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arulzzzxd&layout=compact&theme=tokyonight&hide_border=true">
-</p>---
+</p>
 
 🏆 Featured Projects
 
@@ -57,7 +57,6 @@ Digital marketplace for scripts, bots, accounts and digital products.
 
 Tools and utilities for VPS and Vercel deployment.
 
----
 
 🌎 Connect With Me
 
@@ -66,7 +65,7 @@ Tools and utilities for VPS and Vercel deployment.
 <a href="#"><img src="https://img.shields.io/badge/WHATSAPP-0A0A0A?style=for-the-badge&logo=whatsapp"></a>
 <a href="#"><img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github"></a>
 <a href="#"><img src="https://img.shields.io/badge/TELEGRAM-0A0A0A?style=for-the-badge&logo=telegram"></a>
-</p>---
+</p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=arulzzzxd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10">
