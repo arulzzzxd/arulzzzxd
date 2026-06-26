@@ -68,7 +68,7 @@ Tools and utilities for VPS and Vercel deployment.
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arulzzzxd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10">
+<img src="https://arulz-uploader.vercel.app/files/qr4yEQ.png">
 </p>
 
 <p align="center">
